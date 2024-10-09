@@ -1,0 +1,123 @@
+/* CHANGE HERE */
+
+/* BACKGROUND COLOR */
+
+/* Tanjiro */
+.tanjiro {
+    background-image: linear-gradient(to top, black 70%, rgb(87, 1, 1));
+}
+
+.changeColor__tanjiro , .abilitiesList .changeColor__h2__tanjiro {
+    color: rgb(191, 5, 5);
+}
+
+.circle__tanjiro {
+    background-color: rgb(114, 0, 0);
+}
+
+.c__tanjiro {
+    background-image: radial-gradient(white,rgb(114, 0, 0));
+}
+
+/* Nezuko */
+.nezuko {
+    background-image: linear-gradient(to top, black 70%, rgb(81, 9, 91));
+}
+.changeColor__nezuko , .abilitiesList .changeColor__h2__nezuko {
+    color: rgb(197, 13, 204);
+}
+.circle__nezuko {
+    background-color: rgb(80, 10, 78);
+}
+.c__nezuko {
+    background-image: radial-gradient(white,rgb(158, 8, 156));
+}
+.heroImage__nezuko {
+    position: absolute;
+    right: -300px;
+    width: 2000px;
+    height: auto;
+    top: -300px;
+}
+.nezukoImg {
+    width: 100%;
+    display: block; /* Ensure image doesn't cause extra space below */
+}
+
+/* INOSUKE */
+.inosuke {
+    background-image: linear-gradient(to top, black 70%, rgb(1, 48, 118));
+}
+.changeColor__inosuke , .abilitiesList .changeColor__h2__inosuke {
+    color: rgb(73, 110, 243);
+}
+.circle__inosuke {
+    background-color: rgb(13, 38, 126);
+}
+.c__inosuke {
+    background-image: radial-gradient(white,rgb(8, 23, 158));
+}
+.heroImage__inosuke {
+    position: absolute;
+    right: 0;
+    width: 1700px;
+    height: auto;
+    top: -450px;
+    z-index: 50;
+}
+.inosukeImg {
+    width: 100%;
+    display: block; /* Ensure image doesn't cause extra space below */
+}
+
+/* ZENITSU */
+.zenitsu {
+    background-image: linear-gradient(to top, black 70%, rgb(88, 50, 0));
+}
+.changeColor__zenitsu , .abilitiesList .changeColor__h2__zenitsu {
+    color: rgb(212, 155, 55);
+}
+.circle__zenitsu {
+    background-color: rgb(190, 118, 3);
+}
+.c__zenitsu {
+    background-image: radial-gradient(white,rgb(100, 62, 5));
+}
+.heroImage__zenitsu {
+    position: absolute;
+    right: -200px;
+    width: 1700px;
+    height: auto;
+    top: -550px;
+    z-index: 50;
+}
+.zenitsuImg {
+    width: 100%;
+    display: block; /* Ensure image doesn't cause extra space below */
+}
+
+/* MUZAN */
+.muzan {
+    background-image: linear-gradient(to top, black 70%, rgb(73, 2, 2));
+}
+.changeColor__muzan , .abilitiesList .changeColor__h2__muzan {
+    color: rgb(226, 36, 36);
+}
+.circle__muzan {
+    background-color: rgb(102, 3, 3);
+}
+.c__muzan {
+    background-image: radial-gradient(white,rgb(76, 2, 2));
+}
+.heroImage__muzan {
+    position: absolute;
+    right: -200px;
+    width: 1700px;
+    height: auto;
+    top: 00px;
+    z-index: 50;
+}
+.muzanImg {
+    width: 100%;
+    display: block;
+}
